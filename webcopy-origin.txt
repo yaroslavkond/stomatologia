@@ -1,0 +1,1904 @@
+Uri: https://api-maps.yandex.ru/services/constructor/1.0/js/?um=constructor:16ba6d02c5eac10dcb86fca0329c79f5046cdbd0ba9c3472fa8d5a039190a804&width=100%25&height=436&lang=ru_RU&scroll=true
+File Name: C:\Downloaded Web Sites\miranadent.ru\services\constructor\1.0\js\index.htm
+Content Type: application/javascript
+
+Uri: https://cdn.jsdelivr.net/npm/@fancyapps/ui@5.0/dist/fancybox/fancybox.css
+File Name: C:\Downloaded Web Sites\miranadent.ru\npm\@fancyapps\ui@5.0\dist\fancybox\fancybox.css
+Content Type: text/css
+
+Uri: https://cdn.jsdelivr.net/npm/@fancyapps/ui@5.0/dist/fancybox/fancybox.umd.js
+File Name: C:\Downloaded Web Sites\miranadent.ru\npm\@fancyapps\ui@5.0\dist\fancybox\fancybox.umd.js
+Content Type: application/javascript
+
+Uri: https://miranadent.ru/
+File Name: C:\Downloaded Web Sites\miranadent.ru\index.htm
+Content Type: text/html
+
+Uri: https://miranadent.ru/akcii/
+File Name: C:\Downloaded Web Sites\miranadent.ru\akcii\index.htm
+Content Type: text/html
+
+Uri: https://miranadent.ru/assets/components/gallery/css/web.css
+File Name: C:\Downloaded Web Sites\miranadent.ru\assets\components\gallery\css\web.css
+Content Type: text/css
+
+Uri: https://miranadent.ru/assets/gallery/10/410.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\assets\gallery\10\410.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/assets/gallery/10/411.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\assets\gallery\10\411.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/assets/gallery/10/412.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\assets\gallery\10\412.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/assets/gallery/10/414.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\assets\gallery\10\414.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/assets/gallery/10/416.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\assets\gallery\10\416.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/assets/gallery/10/417.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\assets\gallery\10\417.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/assets/gallery/10/418.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\assets\gallery\10\418.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/assets/gallery/10/420.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\assets\gallery\10\420.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/assets/gallery/10/422.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\assets\gallery\10\422.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/assets/gallery/10/423.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\assets\gallery\10\423.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/assets/gallery/10/424.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\assets\gallery\10\424.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/assets/gallery/10/425.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\assets\gallery\10\425.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/assets/gallery/10/426.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\assets\gallery\10\426.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/assets/gallery/10/427.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\assets\gallery\10\427.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/assets/gallery/10/429.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\assets\gallery\10\429.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/assets/gallery/10/432.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\assets\gallery\10\432.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/assets/gallery/10/434.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\assets\gallery\10\434.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/assets/gallery/10/435.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\assets\gallery\10\435.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/assets/gallery/10/439.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\assets\gallery\10\439.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/assets/gallery/10/440.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\assets\gallery\10\440.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/assets/gallery/10/441.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\assets\gallery\10\441.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/assets/gallery/10/442.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\assets\gallery\10\442.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/assets/gallery/10/443.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\assets\gallery\10\443.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/assets/gallery/10/444.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\assets\gallery\10\444.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/assets/gallery/10/445.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\assets\gallery\10\445.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/assets/gallery/10/446.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\assets\gallery\10\446.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/assets/gallery/10/449.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\assets\gallery\10\449.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/assets/gallery/10/450.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\assets\gallery\10\450.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/assets/gallery/10/454.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\assets\gallery\10\454.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/assets/gallery/10/456.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\assets\gallery\10\456.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/assets/gallery/10/457.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\assets\gallery\10\457.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/assets/gallery/10/458.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\assets\gallery\10\458.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/assets/gallery/11/462.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\assets\gallery\11\462.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/assets/gallery/11/463.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\assets\gallery\11\463.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/assets/gallery/11/464.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\assets\gallery\11\464.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/assets/gallery/11/465.png
+File Name: C:\Downloaded Web Sites\miranadent.ru\assets\gallery\11\465.png
+Content Type: image/png
+
+Uri: https://miranadent.ru/assets/gallery/11/466.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\assets\gallery\11\466.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/assets/gallery/11/467.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\assets\gallery\11\467.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/assets/gallery/11/468.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\assets\gallery\11\468.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/assets/gallery/11/469.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\assets\gallery\11\469.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/assets/gallery/11/470.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\assets\gallery\11\470.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/assets/gallery/12/471.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\assets\gallery\12\471.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/assets/gallery/12/472.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\assets\gallery\12\472.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/assets/gallery/12/473.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\assets\gallery\12\473.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/assets/gallery/12/474.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\assets\gallery\12\474.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/assets/gallery/12/475.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\assets\gallery\12\475.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/assets/gallery/12/476.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\assets\gallery\12\476.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/assets/gallery/13/477.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\assets\gallery\13\477.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/assets/gallery/13/478.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\assets\gallery\13\478.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/assets/gallery/13/479.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\assets\gallery\13\479.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/assets/gallery/13/480.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\assets\gallery\13\480.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/assets/gallery/13/481.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\assets\gallery\13\481.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/assets/gallery/13/482.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\assets\gallery\13\482.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/assets/gallery/13/483.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\assets\gallery\13\483.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/assets/gallery/13/484.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\assets\gallery\13\484.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/assets/gallery/13/485.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\assets\gallery\13\485.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/assets/gallery/13/486.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\assets\gallery\13\486.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/assets/gallery/13/487.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\assets\gallery\13\487.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/assets/gallery/13/488.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\assets\gallery\13\488.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/assets/gallery/13/489.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\assets\gallery\13\489.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/assets/gallery/13/490.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\assets\gallery\13\490.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/assets/gallery/13/491.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\assets\gallery\13\491.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/assets/gallery/13/492.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\assets\gallery\13\492.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/assets/gallery/13/493.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\assets\gallery\13\493.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/assets/gallery/13/494.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\assets\gallery\13\494.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/assets/gallery/13/495.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\assets\gallery\13\495.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/assets/gallery/14/496.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\assets\gallery\14\496.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/assets/gallery/14/497.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\assets\gallery\14\497.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/assets/gallery/15/498.jpeg
+File Name: C:\Downloaded Web Sites\miranadent.ru\assets\gallery\15\498.jpeg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/assets/gallery/15/499.jpeg
+File Name: C:\Downloaded Web Sites\miranadent.ru\assets\gallery\15\499.jpeg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/assets/gallery/15/500.jpeg
+File Name: C:\Downloaded Web Sites\miranadent.ru\assets\gallery\15\500.jpeg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/assets/gallery/15/501.jpeg
+File Name: C:\Downloaded Web Sites\miranadent.ru\assets\gallery\15\501.jpeg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/assets/gallery/15/502.jpeg
+File Name: C:\Downloaded Web Sites\miranadent.ru\assets\gallery\15\502.jpeg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/assets/gallery/15/503.jpeg
+File Name: C:\Downloaded Web Sites\miranadent.ru\assets\gallery\15\503.jpeg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/assets/gallery/16/504.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\assets\gallery\16\504.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/assets/gallery/16/505.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\assets\gallery\16\505.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/assets/gallery/16/506.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\assets\gallery\16\506.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/assets/gallery/16/507.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\assets\gallery\16\507.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/assets/gallery/17/511.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\assets\gallery\17\511.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/assets/gallery/17/512.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\assets\gallery\17\512.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/assets/gallery/17/513.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\assets\gallery\17\513.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/assets/gallery/17/514.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\assets\gallery\17\514.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/assets/gallery/17/515.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\assets\gallery\17\515.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/assets/gallery/17/516.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\assets\gallery\17\516.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/assets/gallery/17/517.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\assets\gallery\17\517.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/assets/gallery/17/518.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\assets\gallery\17\518.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/assets/gallery/17/519.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\assets\gallery\17\519.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/assets/gallery/17/520.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\assets\gallery\17\520.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/assets/gallery/17/521.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\assets\gallery\17\521.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/assets/gallery/17/522.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\assets\gallery\17\522.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/assets/gallery/17/523.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\assets\gallery\17\523.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/assets/gallery/17/524.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\assets\gallery\17\524.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/assets/gallery/17/525.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\assets\gallery\17\525.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/assets/gallery/17/526.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\assets\gallery\17\526.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/assets/gallery/18/593.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\assets\gallery\18\593.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/assets/gallery/18/594.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\assets\gallery\18\594.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/assets/gallery/18/595.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\assets\gallery\18\595.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/assets/gallery/18/596.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\assets\gallery\18\596.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/assets/gallery/18/597.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\assets\gallery\18\597.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/assets/gallery/18/598.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\assets\gallery\18\598.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/assets/gallery/18/599.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\assets\gallery\18\599.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/assets/gallery/18/600.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\assets\gallery\18\600.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/assets/gallery/18/601.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\assets\gallery\18\601.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/assets/gallery/18/602.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\assets\gallery\18\602.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/assets/gallery/19/535.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\assets\gallery\19\535.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/assets/gallery/19/536.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\assets\gallery\19\536.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/assets/gallery/19/537.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\assets\gallery\19\537.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/assets/gallery/19/538.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\assets\gallery\19\538.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/assets/gallery/19/539.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\assets\gallery\19\539.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/assets/gallery/19/540.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\assets\gallery\19\540.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/assets/gallery/19/541.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\assets\gallery\19\541.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/assets/gallery/2/204.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\assets\gallery\2\204.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/assets/gallery/2/205.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\assets\gallery\2\205.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/assets/gallery/2/206.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\assets\gallery\2\206.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/assets/gallery/2/207.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\assets\gallery\2\207.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/assets/gallery/2/208.png
+File Name: C:\Downloaded Web Sites\miranadent.ru\assets\gallery\2\208.png
+Content Type: image/png
+
+Uri: https://miranadent.ru/assets/gallery/2/209.png
+File Name: C:\Downloaded Web Sites\miranadent.ru\assets\gallery\2\209.png
+Content Type: image/png
+
+Uri: https://miranadent.ru/assets/gallery/2/210.png
+File Name: C:\Downloaded Web Sites\miranadent.ru\assets\gallery\2\210.png
+Content Type: image/png
+
+Uri: https://miranadent.ru/assets/gallery/2/211.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\assets\gallery\2\211.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/assets/gallery/2/212.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\assets\gallery\2\212.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/assets/gallery/21/549.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\assets\gallery\21\549.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/assets/gallery/21/550.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\assets\gallery\21\550.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/assets/gallery/21/551.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\assets\gallery\21\551.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/assets/gallery/21/552.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\assets\gallery\21\552.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/assets/gallery/21/553.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\assets\gallery\21\553.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/assets/gallery/21/554.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\assets\gallery\21\554.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/assets/gallery/22/562.jpeg
+File Name: C:\Downloaded Web Sites\miranadent.ru\assets\gallery\22\562.jpeg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/assets/gallery/22/563.jpeg
+File Name: C:\Downloaded Web Sites\miranadent.ru\assets\gallery\22\563.jpeg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/assets/gallery/22/564.jpeg
+File Name: C:\Downloaded Web Sites\miranadent.ru\assets\gallery\22\564.jpeg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/assets/gallery/22/565.jpeg
+File Name: C:\Downloaded Web Sites\miranadent.ru\assets\gallery\22\565.jpeg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/assets/gallery/23/589.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\assets\gallery\23\589.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/assets/gallery/23/590.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\assets\gallery\23\590.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/assets/gallery/23/591.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\assets\gallery\23\591.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/assets/gallery/23/592.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\assets\gallery\23\592.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/assets/gallery/3/186.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\assets\gallery\3\186.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/assets/gallery/3/187.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\assets\gallery\3\187.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/assets/gallery/3/188.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\assets\gallery\3\188.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/assets/gallery/3/189.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\assets\gallery\3\189.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/assets/gallery/3/191.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\assets\gallery\3\191.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/assets/gallery/3/192.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\assets\gallery\3\192.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/assets/gallery/3/193.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\assets\gallery\3\193.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/assets/gallery/3/194.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\assets\gallery\3\194.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/assets/gallery/3/195.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\assets\gallery\3\195.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/assets/gallery/3/196.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\assets\gallery\3\196.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/assets/gallery/3/197.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\assets\gallery\3\197.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/assets/gallery/3/198.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\assets\gallery\3\198.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/assets/gallery/3/199.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\assets\gallery\3\199.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/assets/gallery/3/200.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\assets\gallery\3\200.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/assets/gallery/3/203.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\assets\gallery\3\203.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/assets/gallery/4/231.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\assets\gallery\4\231.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/assets/gallery/4/233.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\assets\gallery\4\233.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/assets/gallery/4/241.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\assets\gallery\4\241.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/assets/gallery/4/242.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\assets\gallery\4\242.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/assets/gallery/4/243.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\assets\gallery\4\243.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/assets/gallery/4/244.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\assets\gallery\4\244.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/assets/gallery/4/245.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\assets\gallery\4\245.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/assets/gallery/4/248.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\assets\gallery\4\248.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/assets/gallery/4/249.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\assets\gallery\4\249.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/assets/gallery/4/250.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\assets\gallery\4\250.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/assets/gallery/4/251.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\assets\gallery\4\251.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/assets/gallery/4/253.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\assets\gallery\4\253.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/assets/gallery/4/254.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\assets\gallery\4\254.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/assets/gallery/4/255.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\assets\gallery\4\255.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/assets/gallery/4/259.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\assets\gallery\4\259.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/assets/gallery/5/272.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\assets\gallery\5\272.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/assets/gallery/5/273.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\assets\gallery\5\273.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/assets/gallery/5/274.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\assets\gallery\5\274.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/assets/gallery/5/275.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\assets\gallery\5\275.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/assets/gallery/5/277.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\assets\gallery\5\277.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/assets/gallery/5/278.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\assets\gallery\5\278.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/assets/gallery/5/279.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\assets\gallery\5\279.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/assets/gallery/5/280.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\assets\gallery\5\280.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/assets/gallery/5/281.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\assets\gallery\5\281.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/assets/gallery/5/282.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\assets\gallery\5\282.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/assets/gallery/5/283.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\assets\gallery\5\283.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/assets/gallery/5/284.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\assets\gallery\5\284.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/assets/gallery/5/285.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\assets\gallery\5\285.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/assets/gallery/5/286.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\assets\gallery\5\286.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/assets/gallery/5/287.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\assets\gallery\5\287.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/assets/gallery/5/288.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\assets\gallery\5\288.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/assets/gallery/5/289.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\assets\gallery\5\289.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/assets/gallery/5/290.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\assets\gallery\5\290.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/assets/gallery/5/291.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\assets\gallery\5\291.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/assets/gallery/5/292.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\assets\gallery\5\292.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/assets/gallery/5/293.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\assets\gallery\5\293.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/assets/gallery/5/294.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\assets\gallery\5\294.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/assets/gallery/5/295.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\assets\gallery\5\295.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/assets/gallery/6/178.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\assets\gallery\6\178.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/assets/gallery/6/179.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\assets\gallery\6\179.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/assets/gallery/6/180.png
+File Name: C:\Downloaded Web Sites\miranadent.ru\assets\gallery\6\180.png
+Content Type: image/png
+
+Uri: https://miranadent.ru/assets/gallery/6/181.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\assets\gallery\6\181.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/assets/gallery/6/182.png
+File Name: C:\Downloaded Web Sites\miranadent.ru\assets\gallery\6\182.png
+Content Type: image/png
+
+Uri: https://miranadent.ru/assets/gallery/6/183.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\assets\gallery\6\183.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/assets/gallery/6/184.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\assets\gallery\6\184.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/assets/gallery/6/185.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\assets\gallery\6\185.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/assets/gallery/7/296.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\assets\gallery\7\296.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/assets/gallery/7/298.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\assets\gallery\7\298.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/assets/gallery/7/299.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\assets\gallery\7\299.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/assets/gallery/7/300.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\assets\gallery\7\300.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/assets/gallery/7/301.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\assets\gallery\7\301.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/assets/gallery/8/304.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\assets\gallery\8\304.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/assets/gallery/8/305.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\assets\gallery\8\305.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/assets/gallery/8/306.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\assets\gallery\8\306.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/assets/gallery/8/307.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\assets\gallery\8\307.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/assets/gallery/8/309.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\assets\gallery\8\309.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/assets/gallery/8/311.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\assets\gallery\8\311.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/assets/gallery/8/312.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\assets\gallery\8\312.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/assets/gallery/8/313.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\assets\gallery\8\313.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/assets/gallery/9/314.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\assets\gallery\9\314.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/assets/gallery/9/315.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\assets\gallery\9\315.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/assets/gallery/9/316.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\assets\gallery\9\316.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/assets/gallery/9/317.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\assets\gallery\9\317.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/assets/gallery/9/319.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\assets\gallery\9\319.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/assets/gallery/9/321.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\assets\gallery\9\321.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/assets/gallery/9/322.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\assets\gallery\9\322.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/assets/gallery/9/323.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\assets\gallery\9\323.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/assets/gallery/9/324.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\assets\gallery\9\324.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/assets/gallery/9/325.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\assets\gallery\9\325.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/assets/gallery/9/326.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\assets\gallery\9\326.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/contacts/
+File Name: C:\Downloaded Web Sites\miranadent.ru\contacts\index.htm
+Content Type: text/html
+
+Uri: https://miranadent.ru/css/style.css
+File Name: C:\Downloaded Web Sites\miranadent.ru\css\style.css
+Content Type: text/css
+
+Uri: https://miranadent.ru/diagnostika/
+File Name: C:\Downloaded Web Sites\miranadent.ru\diagnostika\index.htm
+Content Type: text/html
+
+Uri: https://miranadent.ru/favicon.ico
+File Name: C:\Downloaded Web Sites\miranadent.ru\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://miranadent.ru/font/Manrope/Manrope-Bold.ttf
+File Name: C:\Downloaded Web Sites\miranadent.ru\font\Manrope\Manrope-Bold.ttf
+Content Type: application/octet-stream
+
+Uri: https://miranadent.ru/font/Manrope/Manrope-Bold.woff
+File Name: C:\Downloaded Web Sites\miranadent.ru\font\Manrope\Manrope-Bold.woff
+Content Type: application/font-woff
+
+Uri: https://miranadent.ru/font/Manrope/Manrope-Bold.woff2
+File Name: C:\Downloaded Web Sites\miranadent.ru\font\Manrope\Manrope-Bold.woff2
+Content Type: application/font-woff2
+
+Uri: https://miranadent.ru/font/Manrope/Manrope-ExtraBold.ttf
+File Name: C:\Downloaded Web Sites\miranadent.ru\font\Manrope\Manrope-ExtraBold.ttf
+Content Type: application/octet-stream
+
+Uri: https://miranadent.ru/font/Manrope/Manrope-ExtraBold.woff
+File Name: C:\Downloaded Web Sites\miranadent.ru\font\Manrope\Manrope-ExtraBold.woff
+Content Type: application/font-woff
+
+Uri: https://miranadent.ru/font/Manrope/Manrope-ExtraBold.woff2
+File Name: C:\Downloaded Web Sites\miranadent.ru\font\Manrope\Manrope-ExtraBold.woff2
+Content Type: application/font-woff2
+
+Uri: https://miranadent.ru/font/Manrope/Manrope-ExtraLight.ttf
+File Name: C:\Downloaded Web Sites\miranadent.ru\font\Manrope\Manrope-ExtraLight.ttf
+Content Type: application/octet-stream
+
+Uri: https://miranadent.ru/font/Manrope/Manrope-ExtraLight.woff
+File Name: C:\Downloaded Web Sites\miranadent.ru\font\Manrope\Manrope-ExtraLight.woff
+Content Type: application/font-woff
+
+Uri: https://miranadent.ru/font/Manrope/Manrope-ExtraLight.woff2
+File Name: C:\Downloaded Web Sites\miranadent.ru\font\Manrope\Manrope-ExtraLight.woff2
+Content Type: application/font-woff2
+
+Uri: https://miranadent.ru/font/Manrope/Manrope-Light.ttf
+File Name: C:\Downloaded Web Sites\miranadent.ru\font\Manrope\Manrope-Light.ttf
+Content Type: application/octet-stream
+
+Uri: https://miranadent.ru/font/Manrope/Manrope-Light.woff
+File Name: C:\Downloaded Web Sites\miranadent.ru\font\Manrope\Manrope-Light.woff
+Content Type: application/font-woff
+
+Uri: https://miranadent.ru/font/Manrope/Manrope-Light.woff2
+File Name: C:\Downloaded Web Sites\miranadent.ru\font\Manrope\Manrope-Light.woff2
+Content Type: application/font-woff2
+
+Uri: https://miranadent.ru/font/Manrope/Manrope-Medium.ttf
+File Name: C:\Downloaded Web Sites\miranadent.ru\font\Manrope\Manrope-Medium.ttf
+Content Type: application/octet-stream
+
+Uri: https://miranadent.ru/font/Manrope/Manrope-Medium.woff
+File Name: C:\Downloaded Web Sites\miranadent.ru\font\Manrope\Manrope-Medium.woff
+Content Type: application/font-woff
+
+Uri: https://miranadent.ru/font/Manrope/Manrope-Medium.woff2
+File Name: C:\Downloaded Web Sites\miranadent.ru\font\Manrope\Manrope-Medium.woff2
+Content Type: application/font-woff2
+
+Uri: https://miranadent.ru/font/Manrope/Manrope-Regular.ttf
+File Name: C:\Downloaded Web Sites\miranadent.ru\font\Manrope\Manrope-Regular.ttf
+Content Type: application/octet-stream
+
+Uri: https://miranadent.ru/font/Manrope/Manrope-Regular.woff
+File Name: C:\Downloaded Web Sites\miranadent.ru\font\Manrope\Manrope-Regular.woff
+Content Type: application/font-woff
+
+Uri: https://miranadent.ru/font/Manrope/Manrope-Regular.woff2
+File Name: C:\Downloaded Web Sites\miranadent.ru\font\Manrope\Manrope-Regular.woff2
+Content Type: application/font-woff2
+
+Uri: https://miranadent.ru/font/Manrope/Manrope-SemiBold.ttf
+File Name: C:\Downloaded Web Sites\miranadent.ru\font\Manrope\Manrope-SemiBold.ttf
+Content Type: application/octet-stream
+
+Uri: https://miranadent.ru/font/Manrope/Manrope-SemiBold.woff
+File Name: C:\Downloaded Web Sites\miranadent.ru\font\Manrope\Manrope-SemiBold.woff
+Content Type: application/font-woff
+
+Uri: https://miranadent.ru/font/Manrope/Manrope-SemiBold.woff2
+File Name: C:\Downloaded Web Sites\miranadent.ru\font\Manrope\Manrope-SemiBold.woff2
+Content Type: application/font-woff2
+
+Uri: https://miranadent.ru/gigiena/
+File Name: C:\Downloaded Web Sites\miranadent.ru\gigiena\index.htm
+Content Type: text/html
+
+Uri: https://miranadent.ru/hirurgia/
+File Name: C:\Downloaded Web Sites\miranadent.ru\hirurgia\index.htm
+Content Type: text/html
+
+Uri: https://miranadent.ru/icon/icon-blue-metro.svg
+File Name: C:\Downloaded Web Sites\miranadent.ru\icon\icon-blue-metro.svg
+Content Type: image/svg+xml
+
+Uri: https://miranadent.ru/icon/icon-check-circle.svg
+File Name: C:\Downloaded Web Sites\miranadent.ru\icon\icon-check-circle.svg
+Content Type: image/svg+xml
+
+Uri: https://miranadent.ru/icon/icon-clock.svg
+File Name: C:\Downloaded Web Sites\miranadent.ru\icon\icon-clock.svg
+Content Type: image/svg+xml
+
+Uri: https://miranadent.ru/icon/icon-home-breadcrumb.svg
+File Name: C:\Downloaded Web Sites\miranadent.ru\icon\icon-home-breadcrumb.svg
+Content Type: image/svg+xml
+
+Uri: https://miranadent.ru/icon/icon-inst.svg
+File Name: C:\Downloaded Web Sites\miranadent.ru\icon\icon-inst.svg
+Content Type: image/svg+xml
+
+Uri: https://miranadent.ru/icon/icon-logo.svg
+File Name: C:\Downloaded Web Sites\miranadent.ru\icon\icon-logo.svg
+Content Type: image/svg+xml
+
+Uri: https://miranadent.ru/icon/icon-map.svg
+File Name: C:\Downloaded Web Sites\miranadent.ru\icon\icon-map.svg
+Content Type: image/svg+xml
+
+Uri: https://miranadent.ru/icon/icon-metro.svg
+File Name: C:\Downloaded Web Sites\miranadent.ru\icon\icon-metro.svg
+Content Type: image/svg+xml
+
+Uri: https://miranadent.ru/icon/icon-phone.svg
+File Name: C:\Downloaded Web Sites\miranadent.ru\icon\icon-phone.svg
+Content Type: image/svg+xml
+
+Uri: https://miranadent.ru/icon/icon-price.svg
+File Name: C:\Downloaded Web Sites\miranadent.ru\icon\icon-price.svg
+Content Type: image/svg+xml
+
+Uri: https://miranadent.ru/icon/icon-sertif.svg
+File Name: C:\Downloaded Web Sites\miranadent.ru\icon\icon-sertif.svg
+Content Type: image/svg+xml
+
+Uri: https://miranadent.ru/icon/icon-service-1.svg
+File Name: C:\Downloaded Web Sites\miranadent.ru\icon\icon-service-1.svg
+Content Type: image/svg+xml
+
+Uri: https://miranadent.ru/icon/icon-service-2.svg
+File Name: C:\Downloaded Web Sites\miranadent.ru\icon\icon-service-2.svg
+Content Type: image/svg+xml
+
+Uri: https://miranadent.ru/icon/icon-service-3.svg
+File Name: C:\Downloaded Web Sites\miranadent.ru\icon\icon-service-3.svg
+Content Type: image/svg+xml
+
+Uri: https://miranadent.ru/icon/icon-service-4.svg
+File Name: C:\Downloaded Web Sites\miranadent.ru\icon\icon-service-4.svg
+Content Type: image/svg+xml
+
+Uri: https://miranadent.ru/icon/icon-service-5.svg
+File Name: C:\Downloaded Web Sites\miranadent.ru\icon\icon-service-5.svg
+Content Type: image/svg+xml
+
+Uri: https://miranadent.ru/icon/icon-service-6.svg
+File Name: C:\Downloaded Web Sites\miranadent.ru\icon\icon-service-6.svg
+Content Type: image/svg+xml
+
+Uri: https://miranadent.ru/icon/icon-service-7.svg
+File Name: C:\Downloaded Web Sites\miranadent.ru\icon\icon-service-7.svg
+Content Type: image/svg+xml
+
+Uri: https://miranadent.ru/icon/icon-service-8.svg
+File Name: C:\Downloaded Web Sites\miranadent.ru\icon\icon-service-8.svg
+Content Type: image/svg+xml
+
+Uri: https://miranadent.ru/icon/icon-skill.svg
+File Name: C:\Downloaded Web Sites\miranadent.ru\icon\icon-skill.svg
+Content Type: image/svg+xml
+
+Uri: https://miranadent.ru/icon/icon-toggle.svg
+File Name: C:\Downloaded Web Sites\miranadent.ru\icon\icon-toggle.svg
+Content Type: image/svg+xml
+
+Uri: https://miranadent.ru/icon/icon-vk.svg
+File Name: C:\Downloaded Web Sites\miranadent.ru\icon\icon-vk.svg
+Content Type: image/svg+xml
+
+Uri: https://miranadent.ru/icon/icon-vnt-1.svg
+File Name: C:\Downloaded Web Sites\miranadent.ru\icon\icon-vnt-1.svg
+Content Type: image/svg+xml
+
+Uri: https://miranadent.ru/icon/icon-vnt-2.svg
+File Name: C:\Downloaded Web Sites\miranadent.ru\icon\icon-vnt-2.svg
+Content Type: image/svg+xml
+
+Uri: https://miranadent.ru/icon/icon-vnt-3.svg
+File Name: C:\Downloaded Web Sites\miranadent.ru\icon\icon-vnt-3.svg
+Content Type: image/svg+xml
+
+Uri: https://miranadent.ru/icon/icon-vnt-4.svg
+File Name: C:\Downloaded Web Sites\miranadent.ru\icon\icon-vnt-4.svg
+Content Type: image/svg+xml
+
+Uri: https://miranadent.ru/icon/icon-whatsapp.svg
+File Name: C:\Downloaded Web Sites\miranadent.ru\icon\icon-whatsapp.svg
+Content Type: image/svg+xml
+
+Uri: https://miranadent.ru/img/about-1.png
+File Name: C:\Downloaded Web Sites\miranadent.ru\img\about-1.png
+Content Type: image/png
+
+Uri: https://miranadent.ru/img/about-1.webp
+File Name: C:\Downloaded Web Sites\miranadent.ru\img\about-1.webp
+Content Type: image/webp
+
+Uri: https://miranadent.ru/img/lis-1.png
+File Name: C:\Downloaded Web Sites\miranadent.ru\img\lis-1.png
+Content Type: image/png
+
+Uri: https://miranadent.ru/img/lis-2.png
+File Name: C:\Downloaded Web Sites\miranadent.ru\img\lis-2.png
+Content Type: image/png
+
+Uri: https://miranadent.ru/img/logo-review-1.png
+File Name: C:\Downloaded Web Sites\miranadent.ru\img\logo-review-1.png
+Content Type: image/png
+
+Uri: https://miranadent.ru/img/logo-review-1.webp
+File Name: C:\Downloaded Web Sites\miranadent.ru\img\logo-review-1.webp
+Content Type: image/webp
+
+Uri: https://miranadent.ru/img/logo-review-3.png
+File Name: C:\Downloaded Web Sites\miranadent.ru\img\logo-review-3.png
+Content Type: image/png
+
+Uri: https://miranadent.ru/img/logo-review-3.webp
+File Name: C:\Downloaded Web Sites\miranadent.ru\img\logo-review-3.webp
+Content Type: image/webp
+
+Uri: https://miranadent.ru/img/logo-review-4.png
+File Name: C:\Downloaded Web Sites\miranadent.ru\img\logo-review-4.png
+Content Type: image/png
+
+Uri: https://miranadent.ru/img/logo-review-4.webp
+File Name: C:\Downloaded Web Sites\miranadent.ru\img\logo-review-4.webp
+Content Type: image/webp
+
+Uri: https://miranadent.ru/img/logo-review-5.png
+File Name: C:\Downloaded Web Sites\miranadent.ru\img\logo-review-5.png
+Content Type: image/png
+
+Uri: https://miranadent.ru/img/logo-review-5.webp
+File Name: C:\Downloaded Web Sites\miranadent.ru\img\logo-review-5.webp
+Content Type: image/webp
+
+Uri: https://miranadent.ru/img/photo_2023-12-04_16-20-35.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\img\photo_2023-12-04_16-20-35.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/implantaciya/
+File Name: C:\Downloaded Web Sites\miranadent.ru\implantaciya\index.htm
+Content Type: text/html
+
+Uri: https://miranadent.ru/js/common.js
+File Name: C:\Downloaded Web Sites\miranadent.ru\js\common.js
+Content Type: application/x-javascript
+
+Uri: https://miranadent.ru/nashi-raboty/
+File Name: C:\Downloaded Web Sites\miranadent.ru\nashi-raboty\index.htm
+Content Type: text/html
+
+Uri: https://miranadent.ru/o-stomatologii/
+File Name: C:\Downloaded Web Sites\miranadent.ru\o-stomatologii\index.htm
+Content Type: text/html
+
+Uri: https://miranadent.ru/ortodontiya/
+File Name: C:\Downloaded Web Sites\miranadent.ru\ortodontiya\index.htm
+Content Type: text/html
+
+Uri: https://miranadent.ru/ortopediya/
+File Name: C:\Downloaded Web Sites\miranadent.ru\ortopediya\index.htm
+Content Type: text/html
+
+Uri: https://miranadent.ru/otzivy/
+File Name: C:\Downloaded Web Sites\miranadent.ru\otzivy\index.htm
+Content Type: text/html
+
+Uri: https://miranadent.ru/parodontologiya/
+File Name: C:\Downloaded Web Sites\miranadent.ru\parodontologiya\index.htm
+Content Type: text/html
+
+Uri: https://miranadent.ru/service/
+File Name: C:\Downloaded Web Sites\miranadent.ru\service\index.htm
+Content Type: text/html
+
+Uri: https://miranadent.ru/stomatologi/
+File Name: C:\Downloaded Web Sites\miranadent.ru\stomatologi\index.htm
+Content Type: text/html
+
+Uri: https://miranadent.ru/stomatologi/adamyan-marina-robertovna
+File Name: C:\Downloaded Web Sites\miranadent.ru\stomatologi\adamyan-marina-robertovna.html
+Content Type: text/html
+
+Uri: https://miranadent.ru/stomatologi/aksyonova-irina-valerevna
+File Name: C:\Downloaded Web Sites\miranadent.ru\stomatologi\aksyonova-irina-valerevna.html
+Content Type: text/html
+
+Uri: https://miranadent.ru/stomatologi/albakova-lejla-axmetovna
+File Name: C:\Downloaded Web Sites\miranadent.ru\stomatologi\albakova-lejla-axmetovna.html
+Content Type: text/html
+
+Uri: https://miranadent.ru/stomatologi/avdalyan-zara-samvelovna
+File Name: C:\Downloaded Web Sites\miranadent.ru\stomatologi\avdalyan-zara-samvelovna.html
+Content Type: text/html
+
+Uri: https://miranadent.ru/stomatologi/bojko-alina-sergeevna
+File Name: C:\Downloaded Web Sites\miranadent.ru\stomatologi\bojko-alina-sergeevna.html
+Content Type: text/html
+
+Uri: https://miranadent.ru/stomatologi/egiazaryan-david-grajrovich
+File Name: C:\Downloaded Web Sites\miranadent.ru\stomatologi\egiazaryan-david-grajrovich.html
+Content Type: text/html
+
+Uri: https://miranadent.ru/stomatologi/fatkulina-marina-borisovna
+File Name: C:\Downloaded Web Sites\miranadent.ru\stomatologi\fatkulina-marina-borisovna.html
+Content Type: text/html
+
+Uri: https://miranadent.ru/stomatologi/galeeva-nataliya-ivanovna
+File Name: C:\Downloaded Web Sites\miranadent.ru\stomatologi\galeeva-nataliya-ivanovna.html
+Content Type: text/html
+
+Uri: https://miranadent.ru/stomatologi/gasparyan-mariam-arturovna
+File Name: C:\Downloaded Web Sites\miranadent.ru\stomatologi\gasparyan-mariam-arturovna.html
+Content Type: text/html
+
+Uri: https://miranadent.ru/stomatologi/grebnev-andrej-evgenevich
+File Name: C:\Downloaded Web Sites\miranadent.ru\stomatologi\grebnev-andrej-evgenevich.html
+Content Type: text/html
+
+Uri: https://miranadent.ru/stomatologi/grigoreva-ekaterina-maksimovna
+File Name: C:\Downloaded Web Sites\miranadent.ru\stomatologi\grigoreva-ekaterina-maksimovna.html
+Content Type: text/html
+
+Uri: https://miranadent.ru/stomatologi/ibragimova-sabina-muxtarovna
+File Name: C:\Downloaded Web Sites\miranadent.ru\stomatologi\ibragimova-sabina-muxtarovna.html
+Content Type: text/html
+
+Uri: https://miranadent.ru/stomatologi/ilina-nataliya-vladimirovna
+File Name: C:\Downloaded Web Sites\miranadent.ru\stomatologi\ilina-nataliya-vladimirovna.html
+Content Type: text/html
+
+Uri: https://miranadent.ru/stomatologi/ixsanov-ramzil-yumadilovich
+File Name: C:\Downloaded Web Sites\miranadent.ru\stomatologi\ixsanov-ramzil-yumadilovich.html
+Content Type: text/html
+
+Uri: https://miranadent.ru/stomatologi/karelidze-elizaveta-dzhimsherovna
+File Name: C:\Downloaded Web Sites\miranadent.ru\stomatologi\karelidze-elizaveta-dzhimsherovna.html
+Content Type: text/html
+
+Uri: https://miranadent.ru/stomatologi/kasyanova-ekaterina-aleksandrovna
+File Name: C:\Downloaded Web Sites\miranadent.ru\stomatologi\kasyanova-ekaterina-aleksandrovna.html
+Content Type: text/html
+
+Uri: https://miranadent.ru/stomatologi/katrechko-yana-nikolaevna
+File Name: C:\Downloaded Web Sites\miranadent.ru\stomatologi\katrechko-yana-nikolaevna.html
+Content Type: text/html
+
+Uri: https://miranadent.ru/stomatologi/kuzneczova-elizaveta-dimitrievna
+File Name: C:\Downloaded Web Sites\miranadent.ru\stomatologi\kuzneczova-elizaveta-dimitrievna.html
+Content Type: text/html
+
+Uri: https://miranadent.ru/stomatologi/manukyan-rudolf-gareginovich
+File Name: C:\Downloaded Web Sites\miranadent.ru\stomatologi\manukyan-rudolf-gareginovich.html
+Content Type: text/html
+
+Uri: https://miranadent.ru/stomatologi/matevosyan-diana-aramovna
+File Name: C:\Downloaded Web Sites\miranadent.ru\stomatologi\matevosyan-diana-aramovna.html
+Content Type: text/html
+
+Uri: https://miranadent.ru/stomatologi/pronina-galina-andreevna
+File Name: C:\Downloaded Web Sites\miranadent.ru\stomatologi\pronina-galina-andreevna.html
+Content Type: text/html
+
+Uri: https://miranadent.ru/terapiya/
+File Name: C:\Downloaded Web Sites\miranadent.ru\terapiya\index.htm
+Content Type: text/html
+
+Uri: https://miranadent.ru/upload/akcii.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\upload\akcii.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/upload/akciy.gif
+File Name: C:\Downloaded Web Sites\miranadent.ru\upload\akciy.gif
+Content Type: image/gif
+
+Uri: https://miranadent.ru/upload/banner-1.png
+File Name: C:\Downloaded Web Sites\miranadent.ru\upload\banner-1.png
+Content Type: image/png
+
+Uri: https://miranadent.ru/upload/DOCTORS/  Лейла Ахметовна/albakova.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\upload\DOCTORS\  Лейла Ахметовна\albakova.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/upload/DOCTORS/  Наталия Ивановна/galeeva.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\upload\DOCTORS\  Наталия Ивановна\galeeva.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/upload/DOCTORS/ Алина Сергеевна/boyko.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\upload\DOCTORS\ Алина Сергеевна\boyko.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/upload/DOCTORS/ Андрей Евгеньевич/grebnev.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\upload\DOCTORS\ Андрей Евгеньевич\grebnev.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/upload/DOCTORS/ Диана Арамовна/matevosian.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\upload\DOCTORS\ Диана Арамовна\matevosian.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/upload/DOCTORS/ Екатерина Александровна/kasianova.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\upload\DOCTORS\ Екатерина Александровна\kasianova.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/upload/DOCTORS/ Екатерина Максимовна/grigoreva.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\upload\DOCTORS\ Екатерина Максимовна\grigoreva.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/upload/DOCTORS/ Елизавета Джимшеровна/karelidze.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\upload\DOCTORS\ Елизавета Джимшеровна\karelidze.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/upload/DOCTORS/ Елизавета Димитриевна/kuznecova.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\upload\DOCTORS\ Елизавета Димитриевна\kuznecova.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/upload/DOCTORS/ Зара Самвеловна/avdalyan.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\upload\DOCTORS\ Зара Самвеловна\avdalyan.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/upload/DOCTORS/ Мариам Артуровна/gasparyan.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\upload\DOCTORS\ Мариам Артуровна\gasparyan.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/upload/DOCTORS/ Марина Борисовна/fatkulina.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\upload\DOCTORS\ Марина Борисовна\fatkulina.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/upload/DOCTORS/ Марина Робертовна/adamyan.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\upload\DOCTORS\ Марина Робертовна\adamyan.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/upload/DOCTORS/ Наталия Владимировна/ilina.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\upload\DOCTORS\ Наталия Владимировна\ilina.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/upload/DOCTORS/ Рамзил Юмадилович/ihsanov.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\upload\DOCTORS\ Рамзил Юмадилович\ihsanov.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/upload/DOCTORS/ Рудольф Гарегинович/manukyan.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\upload\DOCTORS\ Рудольф Гарегинович\manukyan.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/upload/DOCTORS/ Сабина Мухтаровна/ibragimova.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\upload\DOCTORS\ Сабина Мухтаровна\ibragimova.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/upload/DOCTORS/ Яна Николаевна/katrechko.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\upload\DOCTORS\ Яна Николаевна\katrechko.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/upload/DOCTORS/Аксёнова Ирина Валерьевна/aksenova.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\upload\DOCTORS\Аксёнова Ирина Валерьевна\aksenova.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/upload/DOCTORS/Егиазарян Давид Грайрович/egiazaryan.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\upload\DOCTORS\Егиазарян Давид Грайрович\egiazaryan.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/upload/DOCTORS/Пронина Галина Андреевна/pronina.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\upload\DOCTORS\Пронина Галина Андреевна\pronina.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/upload/goodplace.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\upload\goodplace.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/upload/icon-service-1.svg
+File Name: C:\Downloaded Web Sites\miranadent.ru\upload\icon-service-1.svg
+Content Type: image/svg+xml
+
+Uri: https://miranadent.ru/upload/icon/icon-service-2.svg
+File Name: C:\Downloaded Web Sites\miranadent.ru\upload\icon\icon-service-2.svg
+Content Type: image/svg+xml
+
+Uri: https://miranadent.ru/upload/icon/icon-service-3.svg
+File Name: C:\Downloaded Web Sites\miranadent.ru\upload\icon\icon-service-3.svg
+Content Type: image/svg+xml
+
+Uri: https://miranadent.ru/upload/icon/icon-service-4.svg
+File Name: C:\Downloaded Web Sites\miranadent.ru\upload\icon\icon-service-4.svg
+Content Type: image/svg+xml
+
+Uri: https://miranadent.ru/upload/icon/icon-service-5.svg
+File Name: C:\Downloaded Web Sites\miranadent.ru\upload\icon\icon-service-5.svg
+Content Type: image/svg+xml
+
+Uri: https://miranadent.ru/upload/icon/icon-service-6.svg
+File Name: C:\Downloaded Web Sites\miranadent.ru\upload\icon\icon-service-6.svg
+Content Type: image/svg+xml
+
+Uri: https://miranadent.ru/upload/icon/icon-service-7.svg
+File Name: C:\Downloaded Web Sites\miranadent.ru\upload\icon\icon-service-7.svg
+Content Type: image/svg+xml
+
+Uri: https://miranadent.ru/upload/icon/icon-service-8.svg
+File Name: C:\Downloaded Web Sites\miranadent.ru\upload\icon\icon-service-8.svg
+Content Type: image/svg+xml
+
+Uri: https://miranadent.ru/upload/index-page.png
+File Name: C:\Downloaded Web Sites\miranadent.ru\upload\index-page.png
+Content Type: image/png
+
+Uri: https://miranadent.ru/upload/interier.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\upload\interier.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/upload/license/act-1.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\upload\license\act-1.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/upload/license/act-2.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\upload\license\act-2.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/upload/license/act-3.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\upload\license\act-3.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/upload/license/license-1.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\upload\license\license-1.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/upload/license/license-2.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\upload\license\license-2.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/upload/license/license-3.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\upload\license\license-3.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/upload/logo-review-2.svg
+File Name: C:\Downloaded Web Sites\miranadent.ru\upload\logo-review-2.svg
+Content Type: image/svg+xml
+
+Uri: https://miranadent.ru/upload/OTSIVI/01.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\upload\OTSIVI\01.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/upload/OTSIVI/02.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\upload\OTSIVI\02.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/upload/OTSIVI/03.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\upload\OTSIVI\03.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/upload/OTSIVI/04.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\upload\OTSIVI\04.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/upload/OTSIVI/05.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\upload\OTSIVI\05.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/upload/OTSIVI/07.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\upload\OTSIVI\07.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/upload/OTSIVI/08.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\upload\OTSIVI\08.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/upload/OTSIVI/09.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\upload\OTSIVI\09.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/upload/OTSIVI/10.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\upload\OTSIVI\10.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/upload/OTSIVI/11.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\upload\OTSIVI\11.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/upload/OTSIVI/12.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\upload\OTSIVI\12.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/upload/OTSIVI/13.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\upload\OTSIVI\13.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/upload/OTSIVI/14.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\upload\OTSIVI\14.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/upload/OTSIVI/15.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\upload\OTSIVI\15.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/upload/OTSIVI/17.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\upload\OTSIVI\17.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/upload/OTSIVI/18.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\upload\OTSIVI\18.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/upload/OTSIVI/19.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\upload\OTSIVI\19.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/upload/OTSIVI/20.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\upload\OTSIVI\20.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/upload/OTSIVI/21.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\upload\OTSIVI\21.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/upload/OTSIVI/22.jpeg
+File Name: C:\Downloaded Web Sites\miranadent.ru\upload\OTSIVI\22.jpeg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/upload/OTSIVI/23.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\upload\OTSIVI\23.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/upload/OTSIVI/24.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\upload\OTSIVI\24.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/upload/OTSIVI/25.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\upload\OTSIVI\25.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/upload/OTSIVI/26.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\upload\OTSIVI\26.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/upload/OTSIVI/27.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\upload\OTSIVI\27.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/upload/OTSIVI/28.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\upload\OTSIVI\28.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/upload/OTSIVI/29.jpeg
+File Name: C:\Downloaded Web Sites\miranadent.ru\upload\OTSIVI\29.jpeg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/upload/OTSIVI/30.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\upload\OTSIVI\30.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/upload/OTSIVI/31.png
+File Name: C:\Downloaded Web Sites\miranadent.ru\upload\OTSIVI\31.png
+Content Type: image/png
+
+Uri: https://miranadent.ru/upload/OTSIVI/32.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\upload\OTSIVI\32.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/upload/OTSIVI/33.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\upload\OTSIVI\33.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/upload/OTSIVI/34.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\upload\OTSIVI\34.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/upload/OTSIVI/35.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\upload\OTSIVI\35.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/upload/OTSIVI/36.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\upload\OTSIVI\36.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/upload/OTSIVI/37.png
+File Name: C:\Downloaded Web Sites\miranadent.ru\upload\OTSIVI\37.png
+Content Type: image/png
+
+Uri: https://miranadent.ru/upload/OTSIVI/38.png
+File Name: C:\Downloaded Web Sites\miranadent.ru\upload\OTSIVI\38.png
+Content Type: image/png
+
+Uri: https://miranadent.ru/upload/OTSIVI/39.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\upload\OTSIVI\39.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/upload/OTSIVI/40.png
+File Name: C:\Downloaded Web Sites\miranadent.ru\upload\OTSIVI\40.png
+Content Type: image/png
+
+Uri: https://miranadent.ru/upload/OTSIVI/41.png
+File Name: C:\Downloaded Web Sites\miranadent.ru\upload\OTSIVI\41.png
+Content Type: image/png
+
+Uri: https://miranadent.ru/upload/OTSIVI/42.png
+File Name: C:\Downloaded Web Sites\miranadent.ru\upload\OTSIVI\42.png
+Content Type: image/png
+
+Uri: https://miranadent.ru/upload/OTSIVI/43.png
+File Name: C:\Downloaded Web Sites\miranadent.ru\upload\OTSIVI\43.png
+Content Type: image/png
+
+Uri: https://miranadent.ru/upload/OTSIVI/44.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\upload\OTSIVI\44.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/upload/OTSIVI/45.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\upload\OTSIVI\45.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/upload/OTSIVI/46.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\upload\OTSIVI\46.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/upload/OTSIVI/47.png
+File Name: C:\Downloaded Web Sites\miranadent.ru\upload\OTSIVI\47.png
+Content Type: image/png
+
+Uri: https://miranadent.ru/upload/OTSIVI/48.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\upload\OTSIVI\48.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/upload/OTSIVI/49.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\upload\OTSIVI\49.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/upload/OTSIVI/50.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\upload\OTSIVI\50.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/upload/OTSIVI/51.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\upload\OTSIVI\51.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/upload/OTSIVI/52.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\upload\OTSIVI\52.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/upload/OTSIVI/53.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\upload\OTSIVI\53.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/upload/OTSIVI/54.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\upload\OTSIVI\54.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/upload/OTSIVI/55.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\upload\OTSIVI\55.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/upload/OTSIVI/56.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\upload\OTSIVI\56.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/upload/OTSIVI/57.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\upload\OTSIVI\57.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/upload/OTSIVI/58.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\upload\OTSIVI\58.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/upload/OTSIVI/59.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\upload\OTSIVI\59.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/upload/OTSIVI/60.webp
+File Name: C:\Downloaded Web Sites\miranadent.ru\upload\OTSIVI\60.webp
+Content Type: image/webp
+
+Uri: https://miranadent.ru/upload/OTSIVI/61.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\upload\OTSIVI\61.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/upload/OTSIVI/62.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\upload\OTSIVI\62.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/upload/OTSIVI/63.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\upload\OTSIVI\63.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/upload/OTSIVI/64.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\upload\OTSIVI\64.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/upload/OTSIVI/65.webp
+File Name: C:\Downloaded Web Sites\miranadent.ru\upload\OTSIVI\65.webp
+Content Type: image/webp
+
+Uri: https://miranadent.ru/upload/OTSIVI/66.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\upload\OTSIVI\66.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/upload/OTSIVI/67.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\upload\OTSIVI\67.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/upload/OTSIVI/68.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\upload\OTSIVI\68.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/upload/OTSIVI/69.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\upload\OTSIVI\69.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/upload/OTSIVI/70.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\upload\OTSIVI\70.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/upload/OTSIVI/71.webp
+File Name: C:\Downloaded Web Sites\miranadent.ru\upload\OTSIVI\71.webp
+Content Type: image/webp
+
+Uri: https://miranadent.ru/upload/OTSIVI/72.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\upload\OTSIVI\72.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/upload/OTSIVI/73.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\upload\OTSIVI\73.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/upload/OTSIVI/74.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\upload\OTSIVI\74.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/upload/OTSIVI/75.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\upload\OTSIVI\75.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/upload/OTSIVI/76.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\upload\OTSIVI\76.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/upload/OTSIVI/77.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\upload\OTSIVI\77.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/upload/OTSIVI/78.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\upload\OTSIVI\78.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/upload/raboti/raboti.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\upload\raboti\raboti.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/upload/raboti/raboti2.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\upload\raboti\raboti2.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/upload/raboti/raboti3.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\upload\raboti\raboti3.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/upload/raboti/raboti4.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\upload\raboti\raboti4.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/upload/raboti/raboti5.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\upload\raboti\raboti5.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/upload/raboti/raboti6.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\upload\raboti\raboti6.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/upload/raboti/raboti7.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\upload\raboti\raboti7.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/upload/service-1.png
+File Name: C:\Downloaded Web Sites\miranadent.ru\upload\service-1.png
+Content Type: image/png
+
+Uri: https://miranadent.ru/upload/service-page-1.png
+File Name: C:\Downloaded Web Sites\miranadent.ru\upload\service-page-1.png
+Content Type: image/png
+
+Uri: https://miranadent.ru/upload/service-page-2.png
+File Name: C:\Downloaded Web Sites\miranadent.ru\upload\service-page-2.png
+Content Type: image/png
+
+Uri: https://miranadent.ru/upload/uslugi/100.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\upload\uslugi\100.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/upload/uslugi/201.png
+File Name: C:\Downloaded Web Sites\miranadent.ru\upload\uslugi\201.png
+Content Type: image/png
+
+Uri: https://miranadent.ru/upload/uslugi/202.png
+File Name: C:\Downloaded Web Sites\miranadent.ru\upload\uslugi\202.png
+Content Type: image/png
+
+Uri: https://miranadent.ru/upload/uslugi/301.png
+File Name: C:\Downloaded Web Sites\miranadent.ru\upload\uslugi\301.png
+Content Type: image/png
+
+Uri: https://miranadent.ru/upload/uslugi/401.png
+File Name: C:\Downloaded Web Sites\miranadent.ru\upload\uslugi\401.png
+Content Type: image/png
+
+Uri: https://miranadent.ru/upload/uslugi/501.png
+File Name: C:\Downloaded Web Sites\miranadent.ru\upload\uslugi\501.png
+Content Type: image/png
+
+Uri: https://miranadent.ru/upload/uslugi/701.png
+File Name: C:\Downloaded Web Sites\miranadent.ru\upload\uslugi\701.png
+Content Type: image/png
+
+Uri: https://miranadent.ru/upload/uslugi/801.png
+File Name: C:\Downloaded Web Sites\miranadent.ru\upload\uslugi\801.png
+Content Type: image/png
+
+Uri: https://miranadent.ru/upload/uslugi/chistka-gigiena.png
+File Name: C:\Downloaded Web Sites\miranadent.ru\upload\uslugi\chistka-gigiena.png
+Content Type: image/png
+
+Uri: https://miranadent.ru/upload/uslugi/implant-implant.png
+File Name: C:\Downloaded Web Sites\miranadent.ru\upload\uslugi\implant-implant.png
+Content Type: image/png
+
+Uri: https://miranadent.ru/upload/uslugi/orto-ped.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\upload\uslugi\orto-ped.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/upload/uslugi/ortodontiya.png
+File Name: C:\Downloaded Web Sites\miranadent.ru\upload\uslugi\ortodontiya.png
+Content Type: image/png
+
+Uri: https://miranadent.ru/upload/uslugi/parodont-diagnost.jpg
+File Name: C:\Downloaded Web Sites\miranadent.ru\upload\uslugi\parodont-diagnost.jpg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/upload/uslugi/parodont.png
+File Name: C:\Downloaded Web Sites\miranadent.ru\upload\uslugi\parodont.png
+Content Type: image/png
+
+Uri: https://miranadent.ru/upload/uslugi/preparing-oral-cavit.jpeg
+File Name: C:\Downloaded Web Sites\miranadent.ru\upload\uslugi\preparing-oral-cavit.jpeg
+Content Type: image/jpeg
+
+Uri: https://miranadent.ru/upload/uslugi/service-2.png
+File Name: C:\Downloaded Web Sites\miranadent.ru\upload\uslugi\service-2.png
+Content Type: image/png
+
+Uri: https://miranadent.ru/upload/uslugi/service-3.png
+File Name: C:\Downloaded Web Sites\miranadent.ru\upload\uslugi\service-3.png
+Content Type: image/png
+
+Uri: https://miranadent.ru/upload/uslugi/service-4.png
+File Name: C:\Downloaded Web Sites\miranadent.ru\upload\uslugi\service-4.png
+Content Type: image/png
+
+Uri: https://miranadent.ru/upload/uslugi/service-5.png
+File Name: C:\Downloaded Web Sites\miranadent.ru\upload\uslugi\service-5.png
+Content Type: image/png
+
+Uri: https://miranadent.ru/upload/uslugi/service-6.png
+File Name: C:\Downloaded Web Sites\miranadent.ru\upload\uslugi\service-6.png
+Content Type: image/png
+
+Uri: https://miranadent.ru/upload/uslugi/service-7.png
+File Name: C:\Downloaded Web Sites\miranadent.ru\upload\uslugi\service-7.png
+Content Type: image/png
+
+Uri: https://miranadent.ru/upload/uslugi/service-8.png
+File Name: C:\Downloaded Web Sites\miranadent.ru\upload\uslugi\service-8.png
+Content Type: image/png
+
+Uri: https://miranadent.ru/upload/uslugi/snimok-diagnost.png
+File Name: C:\Downloaded Web Sites\miranadent.ru\upload\uslugi\snimok-diagnost.png
+Content Type: image/png
+
+Uri: https://w63626.yclients.com/widgetJS
+File Name: C:\Downloaded Web Sites\miranadent.ru\widgetJS
+Content Type: application/javascript
+
